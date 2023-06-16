@@ -1,1 +1,1 @@
-console.log('This is the second document')
+console.log('This is the second document for the second commit')

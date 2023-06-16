@@ -1,1 +1,1 @@
-console.log('this is the first changes to the document')
+console.log('this is the first changes to the second commit document')
